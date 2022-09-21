@@ -1,0 +1,31 @@
+_repo: Y-ddwy-chwaer-Ffeithiau-hanesyddol_68973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+  editor:
+    agent_name: Rees, Sarah Jane
+    gutenberg_agent_id: '55036'
+    url: http://www.gutenberg.org/2009/agents/55036
+description: ''
+gutenberg_issued: '2022-09-11'
+identifiers:
+  gutenberg: '68973'
+language: cy
+pgterms:marc905: 20220910035535rees
+pgterms:marc906: '1879'
+pgterms:marc907: GB
+publication_note: United Kingdom :D. Williams a'i Fab,1879.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Y ddwy chwaer: Ffeithiau hanesyddol'
+url: http://www.gutenberg.org/ebooks/68973
